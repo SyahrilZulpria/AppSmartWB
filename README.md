@@ -1,0 +1,2 @@
+# AppSmartWB
+SmartWbFlutterAndroid
